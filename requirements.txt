@@ -1,0 +1,11 @@
+streamlit>=1.40
+streamlit-geolocation==0.0.10
+streamlit-folium>=0.24
+folium>=0.18
+pandas>=2.2
+requests>=2.32
+beautifulsoup4>=4.12
+python-dotenv>=1.0
+langchain-core>=0.3
+langchain-groq>=0.3
+langgraph>=0.6
